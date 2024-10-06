@@ -1,3 +1,13 @@
-# badges
+# GitHub Achievements By Harlee
 
-gonnato achieve Badges on Git
+| Achievement         | Badge                                                                                                                  | Available | Description                                                                                                       | Difficulty |
+|---------------------|------------------------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------|------------|
+| **Pull Shark**       | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | Yes       | You can get this badge by merging 2 pull requests.                                                                | Medium     |
+| **YOLO**             | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px"> | Yes       | Obtain this badge by merging a pull request without a review. (Requires 1 user and 1 reviewer)                    | Medium     |
+| **Quickdraw**        | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | Yes       | Obtainable by closing a Pull Request or Issue within 5 minutes of it being opened. (You can close your own issues) | Very Easy  |
+| **Pair Extraordinaire** | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | Yes       | Obtain this badge by [coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) | Hard       |
+| **Galaxy Brain**     | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | Yes       | Get this badge by having 2 of your answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions). | Medium     |
+| **Starstruck**       | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | Yes       | This badge is given when one of your repositories gets 16 stars.                                                   | Hard       |
+| **Public Sponsor**   | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | Yes       | Earn this badge by sponsoring a repository/organization/user.                                                      | Very Easy  |
+
+Copyright @Hariharanpugazh
